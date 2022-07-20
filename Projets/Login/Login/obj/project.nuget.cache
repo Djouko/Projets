@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ajIGBIRh4oVvvSrMB90JjMB72YdqXgT9UXGgZoK6AgmbBWv3rX1RLbzjay3woxmGBpiyYS+Ik3lrDVD5IEBDKg==",
+  "success": true,
+  "projectFilePath": "D:\\FORMATIONS ANTHONY\\WPF par la pratique - Mini projets\\Projets\\Login\\Login\\Login.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

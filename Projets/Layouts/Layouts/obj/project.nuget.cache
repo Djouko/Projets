@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DHkAMftjx8caEi8+5VHJdJu15KjCaD12m/YvDaVrWh1iU0ZaOuFP7eADZd7Dzr3Ke3LI8niSfZnk/R3ocX5ZWA==",
+  "success": true,
+  "projectFilePath": "D:\\FORMATIONS ANTHONY\\WPF par la pratique - Mini projets\\Projets\\Layouts\\Layouts\\Layouts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

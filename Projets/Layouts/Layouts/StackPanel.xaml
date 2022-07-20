@@ -1,0 +1,21 @@
+﻿<Window x:Class="Layouts.StackPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Layouts"
+        mc:Ignorable="d"
+        Title="StackPanel" Height="450" Width="800">
+    <StackPanel Orientation="Vertical">
+        <Label Content="Label"/>
+        <Button Content="Button" Background="#FFF79173" Foreground="Black"/>
+        <Label Content="Label"/>
+        <Button Content="Button"/>
+        <Button Content="Button" Margin="5 20" />
+        <Button Content="Button txt" Height="110" Width="404" HorizontalAlignment="Right" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="10,10,10,10" FontSize="24" IsEnabled="True" />
+        <Label Content="Label"/>
+        <Label Content="Label"/>
+        <Button Content="Button" Height="36" Width="463"/>
+
+    </StackPanel>
+</Window>
